@@ -2,3 +2,4 @@ hello world
 
 i m here at linux
 
+doing changes for merge commit
